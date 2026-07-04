@@ -155,4 +155,4 @@ These strategies can improve healthcare delivery, operational planning, patient 
 
 # Author
 Franklin Chisom
-Junior Data Analyst | Aspiring Data Scientist | SQL & R Programming Enthusiast
+Data Analyst | SQL & R Programming Enthusiast
